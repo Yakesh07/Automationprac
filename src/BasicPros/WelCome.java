@@ -4,7 +4,7 @@ public class WelCome {
 	
 	public static void main(String[] args) {
 		
-			int apps=50;
+			int apps=508;
 			int tech=80;
 			
 			if(apps>=40){
